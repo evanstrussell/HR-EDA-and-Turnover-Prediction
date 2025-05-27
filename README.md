@@ -32,6 +32,9 @@ This project was developed in a Jupyter Notebook using the following Python libr
 ## 📁 Repository Structure
 
 HR-EDA-and-Turnover-Prediction/
+
 ├── HRDataset_v14.csv # Raw data file
+
 ├── HR_Analysis.ipynb # Main analysis notebook
+
 └── README.md # Project overview
